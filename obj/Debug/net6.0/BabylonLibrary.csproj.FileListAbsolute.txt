@@ -1,0 +1,15 @@
+/home/semkishow/C#/BabylonLibrary/obj/Debug/net6.0/BabylonLibrary.csproj.AssemblyReference.cache
+/home/semkishow/C#/BabylonLibrary/obj/Debug/net6.0/BabylonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/semkishow/C#/BabylonLibrary/obj/Debug/net6.0/BabylonLibrary.AssemblyInfoInputs.cache
+/home/semkishow/C#/BabylonLibrary/obj/Debug/net6.0/BabylonLibrary.AssemblyInfo.cs
+/home/semkishow/C#/BabylonLibrary/obj/Debug/net6.0/BabylonLibrary.csproj.CoreCompileInputs.cache
+/home/semkishow/C#/BabylonLibrary/bin/Debug/net6.0/BabylonLibrary
+/home/semkishow/C#/BabylonLibrary/bin/Debug/net6.0/BabylonLibrary.deps.json
+/home/semkishow/C#/BabylonLibrary/bin/Debug/net6.0/BabylonLibrary.runtimeconfig.json
+/home/semkishow/C#/BabylonLibrary/bin/Debug/net6.0/BabylonLibrary.dll
+/home/semkishow/C#/BabylonLibrary/bin/Debug/net6.0/ref/BabylonLibrary.dll
+/home/semkishow/C#/BabylonLibrary/bin/Debug/net6.0/BabylonLibrary.pdb
+/home/semkishow/C#/BabylonLibrary/obj/Debug/net6.0/BabylonLibrary.dll
+/home/semkishow/C#/BabylonLibrary/obj/Debug/net6.0/ref/BabylonLibrary.dll
+/home/semkishow/C#/BabylonLibrary/obj/Debug/net6.0/BabylonLibrary.pdb
+/home/semkishow/C#/BabylonLibrary/obj/Debug/net6.0/BabylonLibrary.genruntimeconfig.cache
